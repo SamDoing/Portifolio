@@ -1,0 +1,19 @@
+C:\Users\MR\source\repos\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\MR\source\repos\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\MR\source\repos\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\MR\source\repos\Invaders\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+C:\Users\MR\source\repos\Invaders\Invaders\obj\Debug\Invaders.Form1.resources
+C:\Users\MR\source\repos\Invaders\Invaders\obj\Debug\Invaders.Properties.Resources.resources
+C:\Users\MR\source\repos\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.cache
+C:\Users\MR\source\repos\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\MR\source\repos\Invaders\Invaders\obj\Debug\Invaders.pdb
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\obj\Debug\Invaders.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\obj\Debug\Invaders.Form1.resources
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\obj\Debug\Invaders.Properties.Resources.resources
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\obj\Debug\Invaders.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\Sam\Desktop\New folder\To back\To back\Dev\C#\Invaders\Invaders\obj\Debug\Invaders.pdb
